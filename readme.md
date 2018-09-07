@@ -52,7 +52,14 @@ Author: Sam Rilett
 ChangeLog for Assign01:
 
 //changeLog: changed modulus equals 0, to modulus equals 1
-//changeLog:Renamed varabile numberOfDigits to numDigits
-//changeLog:Increased size of for loop
+//changeLog: renamed varabile numberOfDigits to numDigits
+//changeLog: increased size of for loop
 //changelog: corrected spelling of modulus
 //changeLog: changed if statement from second > 0, to second != 0
+
+Test Cases:
+n= 0
+n= 4879
+n= 5292
+
+https://github.com/sam-rilett2/Assign01/tree/master
